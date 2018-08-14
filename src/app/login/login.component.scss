@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+.section_login .main{
+    margin:50px 15px;
+}
+
+.dropdown {	
+   position: relative;
+   float: right;
+   margin-top: 5px;
+}
+.dropdown ul li a:hover{
+   background-color: hsl(256, 41%, 66%);
+}
+
+.section_login .form-group{
+   margin-bottom: 15px;
+}
+
+.section_login label{
+   font-size: 17px;
+   color:black;
+}
+
+.section_login input,
+input::-webkit-input-placeholder {
+   font-size: 15px;
+   padding-top: 3px;
+   
+}
+
+
+
+
+.section_login .input-group-addon:first-child {
+   border-right: 0;
+   padding:7px;
+}
+.section_login .form-control {
+   height: auto!important;
+padding: 7px 0px !important;
+}
+
+
+.section_login .main-center{
+    margin-top: 30px;
+    margin: 0 auto;
+    max-width: 587px;
+   padding: 10px 40px;
+   background:#e9ebee;
+       color: #FFF;
+   text-shadow: none;
+   border: 20px solid white;
+}
+
+
+.section_login{
+   background-color:black;
+}
+.mat-tab-labels {
+    justify-content: center; /* align items in Main Axis */
+}
+
+
